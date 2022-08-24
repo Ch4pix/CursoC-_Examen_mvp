@@ -1,0 +1,20 @@
+﻿  Controller.cpp
+  Opcion1.cpp
+  Opcion2.cpp
+  Interface.cpp
+  Source.cpp
+  Camisa.cpp
+  Caracteristica.cpp
+  Chupin.cpp
+C:\Users\Salva\Desktop\CursoC++mvp\CursoC++mvp\src\Chupin.cpp(9,25): warning C4305: '=': truncamiento de 'double' a 'float'
+  Cotizacion.cpp
+  CuelloMao.cpp
+C:\Users\Salva\Desktop\CursoC++mvp\CursoC++mvp\src\CuelloMao.cpp(7,25): warning C4305: '=': truncamiento de 'double' a 'float'
+  MangaCorta.cpp
+C:\Users\Salva\Desktop\CursoC++mvp\CursoC++mvp\src\MangaCorta.cpp(9,24): warning C4305: '=': truncamiento de 'double' a 'float'
+  Pantalon.cpp
+  Prenda.cpp
+  Vector.cpp
+  Vendedor.cpp
+  Generando código...
+  CursoC++mvp.vcxproj -> C:\Users\Salva\Desktop\CursoC++mvp\x64\Debug\CursoC++mvp.exe
